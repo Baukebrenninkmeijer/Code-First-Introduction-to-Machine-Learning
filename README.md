@@ -1,6 +1,8 @@
 # Intro to ML using Python
 
-You can run the presentation the easiest by downloading the [slides](https://github.com/Baukebrenninkmeijer/Code-First-Introduction-to-Machine-Learning/blob/master/intro_to_ml_in_python.slides.html). Then you can run them in your browser.  
+You can run the presentation the easiest by opening the [slides](https://refined-github-html-preview.kidonng.workers.dev/Baukebrenninkmeijer/Code-First-Introduction-to-Machine-Learning/raw/master/intro_to_ml_in_python.slides.html#/) on github. 
+
+Alternatively, you can download the [slides](https://github.com/Baukebrenninkmeijer/Code-First-Introduction-to-Machine-Learning/blob/master/intro_to_ml_in_python.slides.html) and then run them in your browser. 
 
 ### Installation for running notebook
 First, make sure you have installed python and pip, either with Anaconda or without.
